@@ -1,7 +1,7 @@
 # DunkEmAll
 Hypercasual Basketball Game 🏀
 
-##Where do I commit?
+## Where do I commit?
 
 - Main - used for complete version of the game, everything is working fine, no errors, basically release-ready version
 
