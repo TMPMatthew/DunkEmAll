@@ -1,0 +1,348 @@
+fileFormatVersion: 2
+guid: 7e2bca627497e45ca8a7a65fca4555fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BLD 1
+    100004: BLD 10
+    100006: BLD 11
+    100008: BLD 11 - p2.001
+    100010: BLD 11.001
+    100012: BLD 12.001
+    100014: BLD 13
+    100016: BLD 13.001
+    100018: BLD 14
+    100020: BLD 15
+    100022: BLD 15 - 2
+    100024: BLD 15 - 3
+    100026: BLD 15-2
+    100028: BLD 16
+    100030: BLD 16 - 2
+    100032: BLD 16 - 3
+    100034: BLD 17
+    100036: BLD 18
+    100038: BLD 19
+    100040: BLD 2
+    100042: BLD 20-2
+    100044: BLD 21-2
+    100046: BLD 22
+    100048: BLD 22-2
+    100050: BLD 22.001
+    100052: BLD 22.002
+    100054: BLD 22.003
+    100056: BLD 22.004
+    100058: BLD 22.005
+    100060: BLD 22.006
+    100062: BLD 22.007
+    100064: BLD 22.008
+    100066: BLD 23
+    100068: BLD 3
+    100070: BLD 4
+    100072: BLD 5
+    100074: BLD 6
+    100076: BLD 7
+    100078: BLD 8
+    100080: BLD 9
+    100082: BLD_18-2
+    100084: BLD_19-2
+    100086: BLD_19-3
+    100088: BLD_3-2
+    100090: BLD_5-2
+    100092: BLD_8-2
+    400000: //RootNode
+    400002: BLD 1
+    400004: BLD 10
+    400006: BLD 11
+    400008: BLD 11 - p2.001
+    400010: BLD 11.001
+    400012: BLD 12.001
+    400014: BLD 13
+    400016: BLD 13.001
+    400018: BLD 14
+    400020: BLD 15
+    400022: BLD 15 - 2
+    400024: BLD 15 - 3
+    400026: BLD 15-2
+    400028: BLD 16
+    400030: BLD 16 - 2
+    400032: BLD 16 - 3
+    400034: BLD 17
+    400036: BLD 18
+    400038: BLD 19
+    400040: BLD 2
+    400042: BLD 20-2
+    400044: BLD 21-2
+    400046: BLD 22
+    400048: BLD 22-2
+    400050: BLD 22.001
+    400052: BLD 22.002
+    400054: BLD 22.003
+    400056: BLD 22.004
+    400058: BLD 22.005
+    400060: BLD 22.006
+    400062: BLD 22.007
+    400064: BLD 22.008
+    400066: BLD 23
+    400068: BLD 3
+    400070: BLD 4
+    400072: BLD 5
+    400074: BLD 6
+    400076: BLD 7
+    400078: BLD 8
+    400080: BLD 9
+    400082: BLD_18-2
+    400084: BLD_19-2
+    400086: BLD_19-3
+    400088: BLD_3-2
+    400090: BLD_5-2
+    400092: BLD_8-2
+    2100000: BLD 20
+    2100002: BLD 21
+    2100004: BLD 22
+    2100006: BUILD 2
+    2100008: BUILD 1.001
+    2100010: BLD 3
+    2100012: BUILD 4
+    2100014: BLD 5
+    2100016: BLD 6
+    2100018: BLD 7
+    2100020: BLD 8
+    2100022: BLD 9
+    2100024: BLD 10
+    2100026: BLD 11 - p2
+    2100028: BLD 12
+    2100030: BLD 13
+    2100032: BLD 14
+    2100034: BLD 15
+    2100036: BLD 16 - 2
+    2100038: BLD 17
+    2100040: BLD 18.001
+    2100042: BLD 19.001
+    2100044: BLD 18
+    2100046: BLD 19
+    2100048: Material
+    2300000: BLD 1
+    2300002: BLD 10
+    2300004: BLD 11
+    2300006: BLD 11 - p2.001
+    2300008: BLD 11.001
+    2300010: BLD 12.001
+    2300012: BLD 13
+    2300014: BLD 13.001
+    2300016: BLD 14
+    2300018: BLD 15
+    2300020: BLD 15 - 2
+    2300022: BLD 15 - 3
+    2300024: BLD 15-2
+    2300026: BLD 16
+    2300028: BLD 16 - 2
+    2300030: BLD 16 - 3
+    2300032: BLD 17
+    2300034: BLD 18
+    2300036: BLD 19
+    2300038: BLD 2
+    2300040: BLD 20-2
+    2300042: BLD 21-2
+    2300044: BLD 22
+    2300046: BLD 22-2
+    2300048: BLD 22.001
+    2300050: BLD 22.002
+    2300052: BLD 22.003
+    2300054: BLD 22.004
+    2300056: BLD 22.005
+    2300058: BLD 22.006
+    2300060: BLD 22.007
+    2300062: BLD 22.008
+    2300064: BLD 23
+    2300066: BLD 3
+    2300068: BLD 4
+    2300070: BLD 5
+    2300072: BLD 6
+    2300074: BLD 7
+    2300076: BLD 8
+    2300078: BLD 9
+    2300080: BLD_18-2
+    2300082: BLD_19-2
+    2300084: BLD_19-3
+    2300086: BLD_3-2
+    2300088: BLD_5-2
+    2300090: BLD_8-2
+    3300000: BLD 1
+    3300002: BLD 10
+    3300004: BLD 11
+    3300006: BLD 11 - p2.001
+    3300008: BLD 11.001
+    3300010: BLD 12.001
+    3300012: BLD 13
+    3300014: BLD 13.001
+    3300016: BLD 14
+    3300018: BLD 15
+    3300020: BLD 15 - 2
+    3300022: BLD 15 - 3
+    3300024: BLD 15-2
+    3300026: BLD 16
+    3300028: BLD 16 - 2
+    3300030: BLD 16 - 3
+    3300032: BLD 17
+    3300034: BLD 18
+    3300036: BLD 19
+    3300038: BLD 2
+    3300040: BLD 20-2
+    3300042: BLD 21-2
+    3300044: BLD 22
+    3300046: BLD 22-2
+    3300048: BLD 22.001
+    3300050: BLD 22.002
+    3300052: BLD 22.003
+    3300054: BLD 22.004
+    3300056: BLD 22.005
+    3300058: BLD 22.006
+    3300060: BLD 22.007
+    3300062: BLD 22.008
+    3300064: BLD 23
+    3300066: BLD 3
+    3300068: BLD 4
+    3300070: BLD 5
+    3300072: BLD 6
+    3300074: BLD 7
+    3300076: BLD 8
+    3300078: BLD 9
+    3300080: BLD_18-2
+    3300082: BLD_19-2
+    3300084: BLD_19-3
+    3300086: BLD_3-2
+    3300088: BLD_5-2
+    3300090: BLD_8-2
+    4300000: BLD 22.008
+    4300002: BLD 22.007
+    4300004: BLD 22.006
+    4300006: BLD 22.005
+    4300008: BLD 22.004
+    4300010: BLD 22.003
+    4300012: BLD 22.002
+    4300014: BLD 22.001
+    4300016: BLD 2
+    4300018: BLD 1
+    4300020: BLD 3
+    4300022: BLD 4
+    4300024: BLD 5
+    4300026: BLD 6
+    4300028: BLD 7
+    4300030: BLD 8
+    4300032: BLD 9
+    4300034: BLD 10
+    4300036: BLD 11
+    4300038: BLD 11.001
+    4300040: BLD 11 - p2.001
+    4300042: BLD 12.001
+    4300044: BLD 13
+    4300046: BLD 14
+    4300048: BLD 13.001
+    4300050: BLD 15
+    4300052: BLD 15 - 2
+    4300054: BLD 16
+    4300056: BLD 16 - 2
+    4300058: BLD 15 - 3
+    4300060: BLD 16 - 3
+    4300062: BLD 17
+    4300064: BLD 18
+    4300066: BLD_19-2
+    4300068: BLD 19
+    4300070: BLD_8-2
+    4300072: BLD_5-2
+    4300074: BLD_19-3
+    4300076: BLD_3-2
+    4300078: BLD_18-2
+    4300080: BLD 22
+    4300082: BLD 15-2
+    4300084: BLD 23
+    4300086: BLD 20-2
+    4300088: BLD 21-2
+    4300090: BLD 22-2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

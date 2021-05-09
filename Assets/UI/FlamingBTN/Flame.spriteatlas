@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Flame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 490092049e309489f969b5ddc70c107a, type: 3}
+    totalSpriteSurfaceArea: 19922944
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 139ee3a0502e648918a8533f6b342b2e, type: 3}
+  - {fileID: 21300000, guid: e6e4d981e8be04359b867e08c1e83fa4, type: 3}
+  - {fileID: 21300000, guid: ef860c5245da24bd4826be6b20a44634, type: 3}
+  - {fileID: 21300000, guid: 8cfee492ee8c74df5a9af2a67e354b45, type: 3}
+  - {fileID: 21300000, guid: c6d217f375b6c4b6283f41f15adfe2ba, type: 3}
+  - {fileID: 21300000, guid: e15a6734b10614258b8ad079b9b70fc2, type: 3}
+  - {fileID: 21300000, guid: 4f647f359cca74df39df00f7480ce17d, type: 3}
+  - {fileID: 21300000, guid: 8577195756a95436ab1259069a677d1a, type: 3}
+  - {fileID: 21300000, guid: 7bf91a97ae80542acaeecfc4ced9b952, type: 3}
+  - {fileID: 21300000, guid: 1aa635b7023e04a4692b4497059487b9, type: 3}
+  - {fileID: 21300000, guid: 60ffb5b79ef704798985080b2bdbad46, type: 3}
+  - {fileID: 21300000, guid: 9eff1e0b8cc4947e2896057a4824f23a, type: 3}
+  - {fileID: 21300000, guid: de252ccb6df024b72a85a3250649c997, type: 3}
+  - {fileID: 21300000, guid: 005c31dcc4bbd430eabe91aa03666c0b, type: 3}
+  - {fileID: 21300000, guid: 2e18777ea3b1e486fb84fbe478e62fc0, type: 3}
+  - {fileID: 21300000, guid: a654d59e3aeab4158bd8ffa56a06130d, type: 3}
+  - {fileID: 21300000, guid: d14eb3beff108442b83854cc0f1a8384, type: 3}
+  - {fileID: 21300000, guid: 61d115be85cf54f9bb3f124f68079074, type: 3}
+  - {fileID: 21300000, guid: 76cafdfea626e437a804a63902b5fcb0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00001-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00003-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00004-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00002-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00017-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00015-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00016-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00012-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00011-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00014-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00013-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00009-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00006-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00007-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00018-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00008-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00010-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00005-min
+  - Elements - Fire 112 Torch Calm loop noCT noRSZ_00000-min
+  m_Tag: Flame
+  m_IsVariant: 0
