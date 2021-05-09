@@ -9,4 +9,4 @@ Hypercasual Basketball Game 🏀
 
 - XCodeRelese - used for XCode project of the game build. DO NOT EVEN TOUCH THIS BRANCH IF YOU AT LEAST DON'T OWN A MACBOOK
 
-- Debug - H̵̟̳͈̩͐̈̍̋e̶͙̭͌̑̍l̶̼̘̰͆ļ̸̘̤̗̑̀̅̽,̸̱̙̠̈́͝ ̸̡͕̞͆s̷̖͇̃̋͑̎u̶͚̺͛̿͜͝f̵̨̘͒͂͠ͅf̵̫̈́̉e̵̮̿͒̇͜ͅr̷̲̻̱̽́̃͆i̵̯͙͕̒̍ñ̵̪͕͎͓̂̈́̐g̸̘̲̖͕̈́̚͝͠,̸̤̹́̓́̈ ̵̫͉̜͌͌͊̋p̴̧̮̽͗ã̵͉ị̶̰̞͍̊̍͋͛n̴̢̧͍̬̋̈́̀͠
+- Debug - H̷̥͑ẽ̷̹̀l̸̦͊l̶͈̍ ̴̭̾s̶̲̔ù̷̖́f̶̣͝f̶̨̍ě̷̡r̶̯̲͛i̶͖͛͘ǹ̴̜̬g̴̪̩͑ ̴̧̾â̴͉͍̕n̵̰͉͊d̴̜͔̎ ̸̢̥̈́̀p̸̜̄̏ḁ̵͍̌i̴̭̿ͅn̵̼͔̄
